@@ -36,5 +36,3 @@ Instructions
 12) Uncache the home_sales temporary table.
 
 13) Verify that the home_sales temporary table is uncached using PySpark.
-
-14) Download your Home_Sales.ipynb file and upload it into your "Home_Sales" GitHub repository.
